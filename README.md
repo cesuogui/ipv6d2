@@ -19,3 +19,9 @@
 	然后打开游戏选择:其他多人连线,TCP/IP游戏,加入游戏,填入:127.0.0.1
 	
 主控游戏的联机秘钥会不定期修改,请加入社区群获取最新的联机秘钥，更多帮助请查看:ipv6wow.cn
+
+1.14d本体+D2GL高清+plugY 大箱子
+
+百度网盘： https://pan.baidu.com/s/1K-OuBEq5qcvScLzZDgEujg?pwd=d2gl 
+
+提取码：   d2gl
